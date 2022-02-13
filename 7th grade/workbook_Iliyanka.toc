@@ -1,0 +1,3 @@
+\babel@toc {bulgarian}{}
+\contentsline {section}{\numberline {1}Начални бележки}{1}%
+\contentsline {section}{\numberline {2}Еднакви триъгълници}{1}%
